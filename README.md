@@ -16,7 +16,7 @@ Passionné par les technologies web, l'intelligence artificielle et l'éducation
 ### 📫 Me contacter :
 - Email : guireroland623@gmail.com
 - YouTube : [Ma chaîne YouTube](http://www.youtube.com/@RolandGuire-j4p)
-- Site web : [mon site web](https://github.com/rolandarseneguire/rolandarseneguire) *(à venir)*
+- Site web : [mon site web](https://rolandarseneguire.github.io) *(à venir)*
 
 ---
 
