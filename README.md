@@ -1,6 +1,6 @@
 ## Salut à tous 👋
 
-Je m'appelle **Roland Arsene Guire**, étudiant en Licence 3 Informatique à l'Université Nangui Abrogoua 🇨🇮  
+Je m'appelle **Roland Arsene GUIRE**, étudiant en Licence 3 Informatique à l'Université Nangui Abrogoua 🇨🇮  
 Passionné par les technologies web, l'intelligence artificielle et l'éducation numérique.
 
 ### 🔧 Ce que je fais :
@@ -14,9 +14,9 @@ Passionné par les technologies web, l'intelligence artificielle et l'éducation
 - Développer une plateforme pour l’intégration culturelle et académique
 
 ### 📫 Me contacter :
-- Email : rolandarsene.guire@example.com
-- YouTube : [Ma chaîne YouTube](https://www.youtube.com/@gi4tech)
-- Site web : [gi4tech.github.io](https://gi4tech.github.io) *(à venir)*
+- Email : guireroland623@gmail.com
+- YouTube : [Ma chaîne YouTube](http://www.youtube.com/@RolandGuire-j4p)
+- Site web : [mon site web](https://rolandarseneguire.github.io) *(à venir)*
 
 ---
 
