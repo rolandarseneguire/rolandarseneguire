@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>connexion</title>
+    <link rel="stylesheet" href="{% static 'mywebsite/home.css' %}">
+</head>
+<body>
+   <h1>Remplissez le formulaire pour votre integration !</h1>
+   <form action="formulaire">
+    <label for="nom">votre nom </label>
+    <input type="text" placeholder="votre nom" required>
+    <label for="prenom">votre prenom</label>
+    <input type="text" placeholder="votre prenom" required>
+    <label for="te">votre numero</label>
+    <input type="tel" placeholder="votre numero" required>
+    <label for="mail">votre e-mail</label>
+    <input type="email" placeholder="votre mail" required >
+    <button type="submit">submit</button>
+   </form>
+</body>
+
+
+</html>

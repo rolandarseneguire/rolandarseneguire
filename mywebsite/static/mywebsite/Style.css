@@ -1,0 +1,30 @@
+
+*{
+background-color: beige;
+padding: 1%;
+border-radius: 2rem;
+border-top-color: brown;
+
+
+}
+body{
+    color :black;
+    background-color:blueviolet;
+}
+
+header{
+      
+    background-color:blanchedalmond;
+    display:flexbox;
+    height: 14rem;
+    width: 50rem;
+}
+
+header img{
+    position: relative;
+    left: 80%;
+    top:-185px;
+    width:250px;
+}
+
+
