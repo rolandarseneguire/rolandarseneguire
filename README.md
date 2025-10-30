@@ -1,6 +1,6 @@
 ## Salut à tous 👋
 
-Je m'appelle **Roland Arsene Guire**, étudiant en Licence 3 Informatique à l'Université Nangui Abrogoua 🇨🇮  
+Je m'appelle **Roland Arsene GUIRE**, étudiant en Licence 3 Informatique à l'Université Nangui Abrogoua 🇨🇮  
 Passionné par les technologies web, l'intelligence artificielle et l'éducation numérique.
 
 ### 🔧 Ce que je fais :
