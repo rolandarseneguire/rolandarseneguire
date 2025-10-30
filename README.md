@@ -14,9 +14,9 @@ Passionné par les technologies web, l'intelligence artificielle et l'éducation
 - Développer une plateforme pour l’intégration culturelle et académique
 
 ### 📫 Me contacter :
-- Email : rolandarsene.guire@example.com
-- YouTube : [Ma chaîne YouTube](https://www.youtube.com/@gi4tech)
-- Site web : [gi4tech.github.io](https://gi4tech.github.io) *(à venir)*
+- Email : guireroland623@gmail.com
+- YouTube : [Ma chaîne YouTube](http://www.youtube.com/@RolandGuire-j4p)
+- Site web : [gi4tech.github.io](https://github.com/rolandarseneguire/rolandarseneguire) *(à venir)*
 
 ---
 
